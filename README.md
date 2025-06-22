@@ -7,8 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=recipient@babystar.shine2019@gmail.com&cc=someoneelse@babystar.shine2019@gmail.com&su=Email%20Subject&body=Hello%20There" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" width="80" height="30"/> </a>
-  <a href="https://t.me/babystarshine" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="te;egram" width="80" height="30"/> </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=recipient@babystar.shine2019@gmail.com&cc=someoneelse@babystar.shine2019@gmail.com&su=Email%20Subject&body=Hello%20There" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" width="80" height="25"/> </a>
+  <a href="https://t.me/babystarshine" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="te;egram" width="80" height="25"/> </a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
